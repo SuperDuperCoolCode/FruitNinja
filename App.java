@@ -2,7 +2,7 @@ package fruitninja;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
-import cs15.prj.fruitNinjaSupport.FruitNinjaFrame;
+import cs015.prj.fruitNinjaSupport.FruitNinjaFrame;
 
 /**
  * Welcome to your FruitNinja App class. In the constructor you should
